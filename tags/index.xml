@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Furywizz</title>
-    <link>https://furywizz.xyz/tags/</link>
+    <link>https://www.furywizz.xyz/tags/</link>
     <description>Recent content in Tags on Furywizz</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 02 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://furywizz.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.furywizz.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CKA</title>
-      <link>https://furywizz.xyz/tags/cka/</link>
+      <link>https://www.furywizz.xyz/tags/cka/</link>
       <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://furywizz.xyz/tags/cka/</guid>
+      <guid>https://www.furywizz.xyz/tags/cka/</guid>
       <description></description>
     </item>
     
     <item>
       <title>k8s</title>
-      <link>https://furywizz.xyz/tags/k8s/</link>
+      <link>https://www.furywizz.xyz/tags/k8s/</link>
       <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://furywizz.xyz/tags/k8s/</guid>
+      <guid>https://www.furywizz.xyz/tags/k8s/</guid>
       <description></description>
     </item>
     
     <item>
       <title>学习</title>
-      <link>https://furywizz.xyz/tags/%E5%AD%A6%E4%B9%A0/</link>
+      <link>https://www.furywizz.xyz/tags/%E5%AD%A6%E4%B9%A0/</link>
       <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://furywizz.xyz/tags/%E5%AD%A6%E4%B9%A0/</guid>
+      <guid>https://www.furywizz.xyz/tags/%E5%AD%A6%E4%B9%A0/</guid>
       <description></description>
     </item>
     
