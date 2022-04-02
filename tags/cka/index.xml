@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>CKA on Furywizz</title>
+    <link>https://furywizz.xyz/tags/cka/</link>
+    <description>Recent content in CKA on Furywizz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 02 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://furywizz.xyz/tags/cka/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CKAD练习题记录(2)</title>
+      <link>https://furywizz.xyz/posts/cka_practice-2/</link>
+      <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://furywizz.xyz/posts/cka_practice-2/</guid>
+      <description>CKA练习记录</description>
+    </item>
+    
+    <item>
+      <title>CKAD练习题记录(1)</title>
+      <link>https://furywizz.xyz/posts/cka_practice_1/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://furywizz.xyz/posts/cka_practice_1/</guid>
+      <description>CKA练习记录</description>
+    </item>
+    
+  </channel>
+</rss>
