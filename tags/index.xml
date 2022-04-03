@@ -5,7 +5,16 @@
     <link>https://www.furywizz.xyz/tags/</link>
     <description>Recent content in Tags on Furywizz</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 02 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.furywizz.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.furywizz.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>学习</title>
+      <link>https://www.furywizz.xyz/tags/%E5%AD%A6%E4%B9%A0/</link>
+      <pubDate>Sun, 03 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.furywizz.xyz/tags/%E5%AD%A6%E4%B9%A0/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>CKA</title>
       <link>https://www.furywizz.xyz/tags/cka/</link>
@@ -21,15 +30,6 @@
       <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.furywizz.xyz/tags/k8s/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>学习</title>
-      <link>https://www.furywizz.xyz/tags/%E5%AD%A6%E4%B9%A0/</link>
-      <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.furywizz.xyz/tags/%E5%AD%A6%E4%B9%A0/</guid>
       <description></description>
     </item>
     
