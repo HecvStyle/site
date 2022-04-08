@@ -60,6 +60,18 @@
 </header>
 <article class="post-entry tag-entry">
 <header class=entry-header>
+<h2>CKAD练习题记录(3)
+</h2>
+</header>
+<section class=entry-content>
+<p>来源：https://github.com/dgkanatsios/CKAD-exercises
+part-D: Configuration Create a configMap called ‘options’ with the value var5=val5. Create a new nginx pod that loads the value from variable ‘var5’ in an env variable called ‘option’ ## 这个意思是要将var5 这个配置，放到pod里作为环境变量，变量名为option ## 涉及到知识点上 env 处理，忘记了字段，可以用 k explain 处理 k explain pod.spec.containers.env.valueFrom.configMapKeyRef env: - name: option valueFrom: configMapKeyRef: name: options key: var5 Create a configMap ‘anotherone’ with values ‘var6=val6’, ‘var7=val7’. Load this configMap as env variables into a new nginx pod ## 这个跟上边那题略有差别，这里是把 k-v 直接作为环境变量了,可以理解为导入外部kv作为pod的环境变量，而上边是指定某一个key 的值 13 envFrom: 14 - configMapRef: 15 name: another ## 差别点就是字段的使用不熟悉 Create a configMap ‘cmvolume’ with values ‘var8=val8’, ‘var9=val9’....</p>
+</section>
+<footer class=entry-footer><span title="2022-04-08 00:00:00 +0000 UTC">April 8, 2022</span>&nbsp;·&nbsp;2 min&nbsp;·&nbsp;furywizz</footer>
+<a class=entry-link aria-label="post link to CKAD练习题记录(3)" href=https://www.furywizz.xyz/posts/cka_practice_3/></a>
+</article>
+<article class="post-entry tag-entry">
+<header class=entry-header>
 <h2>CKAD练习题记录(2)
 </h2>
 </header>

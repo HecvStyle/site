@@ -5,7 +5,25 @@
     <link>https://www.furywizz.xyz/</link>
     <description>Recent content on Furywizz</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 03 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.furywizz.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.furywizz.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CKAD练习题记录(3)</title>
+      <link>https://www.furywizz.xyz/posts/cka_practice_3/</link>
+      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.furywizz.xyz/posts/cka_practice_3/</guid>
+      <description>CKA练习记录</description>
+    </item>
+    
+    <item>
+      <title>Kafka学习</title>
+      <link>https://www.furywizz.xyz/posts/geek_kafka/</link>
+      <pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.furywizz.xyz/posts/geek_kafka/</guid>
+      <description>极客时间Kafka实战专栏学习心得</description>
+    </item>
+    
     <item>
       <title>使用Hugo&#43;Candy搭建个人博客</title>
       <link>https://www.furywizz.xyz/posts/about_blog/</link>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>kafka on Furywizz</title>
+    <link>https://www.furywizz.xyz/tags/kafka/</link>
+    <description>Recent content in kafka on Furywizz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 07 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.furywizz.xyz/tags/kafka/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kafka学习</title>
+      <link>https://www.furywizz.xyz/posts/geek_kafka/</link>
+      <pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.furywizz.xyz/posts/geek_kafka/</guid>
+      <description>极客时间Kafka实战专栏学习心得</description>
+    </item>
+    
+  </channel>
+</rss>
